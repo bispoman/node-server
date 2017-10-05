@@ -4,7 +4,7 @@
   "description": "Node server for the react app ",
   "main": "index.js",
   "engines": {
-    "node":"8.8.1",
+    "node":"8.5.0",
     "npm":"5.0.3"
   },
   "scripts": {
